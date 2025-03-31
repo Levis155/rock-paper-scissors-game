@@ -1,4 +1,7 @@
-# Rock Paper Scissors Game
+# Description
+Built a rock, paper, scissors game as a follow up to JavaScript learning as the third week's weekend assessment at the Teach2Give bootcamp.
+
+# Interface
 
 <p align="center">
     <img src="./Assets/images/web-Screenshot.png" alt="screenshot">
